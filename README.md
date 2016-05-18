@@ -1,2 +1,0 @@
-# ShineLam.github.io
-website
